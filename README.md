@@ -1,5 +1,5 @@
 # Tema4
-##Lab 4 curso Modelos
+# Lab 4 curso Modelos
 
 * Se realiza la solución del problema 1. Se eligen variables aleatorias X y Y.
 * Como w_0 es constante, se pone w_0 = 2*pi
